@@ -1,14 +1,14 @@
 # Use of Bangla Fonts:
 
 ## Install
-````'https://raw.githack.com/mdrkspro/WebFonts/master/fonts.css'````
+````'https://raw.githack.com/mdrkshanto/WebFonts/master/fonts.css'````
 
 #### Static HTML
 
 Put the required stylesheet at the top of your markup:
 
 ```html
-<link rel="stylesheet" href="https://raw.githack.com/mdrkspro/WebFonts/master/fonts.css">
+<link rel="stylesheet" href="https://raw.githack.com/mdrkshanto/WebFonts/master/fonts.css">
 ```
 
 *Or*
@@ -18,7 +18,7 @@ Put the required stylesheet at the top of your markup:
 Put The `@import` Rule at the top of your css file:
 
 ```css
-@import url('https://raw.githack.com/mdrkspro/WebFonts/master/fonts.css');
+@import url('https://raw.githack.com/mdrkshanto/WebFonts/master/fonts.css');
 ```
 
 
