@@ -1,0 +1,87 @@
+@font-face {
+    font-family: 'Bangla';
+    src: url('fonts/Bangla.eot');
+    src: url('fonts/Bangla.eot') format('eot'), url('fonts/Bangla.otf') format('otf'), url('fonts/Bangla.svg#Bangla') format('svg'), url('fonts/Bangla.ttf') format('truetype'), url('fonts/Bangla.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Kalpurush';
+    src: url('fonts/kalpurush.eot');
+    src: url('fonts/kalpurush.eot') format('eot'), url('fonts/kalpurush.otf') format('otf'), url('fonts/kalpurush.svg#kalpurush') format('svg'), url('fonts/kalpurush.ttf') format('truetype'), url('fonts/kalpurush.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SiyamRupali';
+    src: url('fonts/siyamrupali.eot');
+    src: url('fonts/siyamrupali.eot') format('eot'), url('fonts/siyamrupali.otf') format('otf'), url('fonts/siyamrupali.svg#siyam_rupali') format('svg'), url('fonts/siyamrupali.ttf') format('truetype'), url('fonts/siyamrupali.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Rupsha';
+    src: url('fonts/RupshaMJ.eot');
+    src: url('fonts/RupshaMJ.eot') format('eot'), url('fonts/RupshaMJ.otf') format('otf'), url('fonts/RupshaMJ.svg#Rupsha') format('svg'), url('fonts/RupshaMJ.ttf') format('truetype'), url('fonts/RupshaMJ.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ZCOOL XiaoWei';
+    src: url('fonts/ZCOOLXiaoWei.eot');
+    src: url('fonts/ZCOOLXiaoWei.eot') format('eot'), url('fonts/ZCOOLXiaoWei.otf') format('otf'), url('fonts/ZCOOLXiaoWei.svg#ZCOOLXiaoWei') format('svg'), url('fonts/ZCOOLXiaoWei.ttf') format('truetype'), url('fonts/ZCOOLXiaoWei.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('fonts/Roboto.eot');
+    src: url('fonts/Roboto.eot') format('eot'), url('fonts/Roboto.otf') format('otf'), url('fonts/Roboto.svg#Roboto') format('svg'), url('fonts/Roboto.ttf') format('truetype'), url('fonts/Roboto.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Charm';
+    src: url('fonts/Charm.eot');
+    src: url('fonts/Charm.eot') format('eot'), url('fonts/Charm.otf') format('otf'), url('fonts/Charm.svg#Charm') format('svg'), url('fonts/Charm.ttf') format('truetype'), url('fonts/Charm.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Rubik';
+    src: url('fonts/Rubik.eot');
+    src: url('fonts/Rubik.eot') format('eot'), url('fonts/Rubik.otf') format('otf'), url('fonts/Rubik.svg#Rubik') format('svg'), url('fonts/Rubik.ttf') format('truetype'), url('fonts/Rubik.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Courgette';
+    src: url('fonts/Courgette.eot');
+    src: url('fonts/Courgette.eot') format('eot'), url('fonts/Courgette.otf') format('otf'), url('fonts/Courgette.svg#Courgette') format('svg'), url('fonts/Courgette.ttf') format('truetype'), url('fonts/Courgette.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'GreatVibes';
+    src: url('fonts/GreatVibes.eot');
+    src: url('fonts/GreatVibes.eot') format('eot'), url('fonts/GreatVibes.otf') format('otf'), url('fonts/GreatVibes.svg#GreatVibes') format('svg'), url('fonts/GreatVibes.ttf') format('truetype'), url('fonts/GreatVibes.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'KaushanScript';
+    src: url('fonts/KaushanScript.eot');
+    src: url('fonts/KaushanScript.eot') format('eot'), url('fonts/KaushanScript.otf') format('otf'), url('fonts/KaushanScript.svg#KaushanScript') format('svg'), url('fonts/KaushanScript.ttf') format('truetype'), url('fonts/KaushanScript.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
