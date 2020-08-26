@@ -46,7 +46,7 @@ ZCOOL XiaoWei|Roboto|Charm|Rubik|Courgette|GreatVibes|KaushanScript
 ****Example:****
 ```css
 span{
-    font-family: 'Bangla';
+    font-family: 'ZCOOL XiaoWei', 'Bangla';
 }
 ```
 
